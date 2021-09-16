@@ -1,6 +1,6 @@
 # API Project | Books
 
-This project creates with the Django framework. 
+This project creates with the Django framework. I am using Postgres database.
 I created an API book project where you can add new books, add them to favorites, rate and write reviews. 
 ![Link](https://github.com/uzhegovaelena/books-api/blob/main/Book.PNG)
 
