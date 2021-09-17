@@ -9,3 +9,21 @@ You can filter by favorites and ratings.
 
 I also installed the admin panel.
 ![Link](https://github.com/uzhegovaelena/books-api/blob/main/admin.PNG)
+
+## Backend development workflow
+
+```shell
+virtualenv env
+./venv/Scripts/activate
+python manage.py runserver
+```
+
+- Create database books_api
+- Create admin
+```shell
+python manage.py createsuperuser
+```
+
+- GET/POST: http://127.0.0.1:8000/api/books/
+
+
